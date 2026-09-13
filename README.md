@@ -1,8 +1,8 @@
 # # Computer Vision Unit II Programming Assignment
 
-# Name: Ayush Tiwari
+# Name: Abhishek kumar
 
-# Enrollment Number: 2402309022
+# Enrollment Number: 2402309006
 
 # Class/Section: BCA 5A 
 
